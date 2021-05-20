@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+.quotes {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wrap-left {
+    margin-right: 50px;
+}
